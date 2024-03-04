@@ -8,6 +8,8 @@ A program az egyes ügyek kezeléskor követi a munkatársaknak kiadott feladato
 
 A program használatakor több jogosultsági szint állítható be, az adott munkatárs jogsultságainak függvényében. (Például vihet fel ügyet és feladatot is, de nem aktiválhatja, hogy induljon a feladat, azt majd a vezető teszi meg.)
 
+Az itt található fájlok csak demonstrációs céllal vannak feltöltve, önmagukban működésképtelenek. A teljes projekt több száz fájlból áll.
+
 <table>
 <tr>
 <td><img src="printscreen/ugyvedi_ugyvitel_01.png" alt="alt szöveg" width="720"></td>
