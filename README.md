@@ -23,4 +23,5 @@ Az itt található fájlok csak demonstrációs céllal vannak feltöltve, önma
 <tr>
 <td><img src="printscreen/ugyvedi_ugyvitel_04.png" alt="alt szöveg" width="720"></td>
 </tr>
+</table>
 
